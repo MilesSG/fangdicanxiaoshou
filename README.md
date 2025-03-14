@@ -90,7 +90,7 @@ fangdicanxiaoshou/
 │       │       ├── dao/         # 数据访问层
 │       │       ├── entity/      # 实体类
 │       │       ├── utils/       # 工具类
-│       │       └── config/      # 配置类
+│       │       └── config/      # 配置类 
 │       └── resources/  # 资源文件
 │           ├── mapper/          # MyBatis映射文件
 │           ├── static/          # 静态资源
